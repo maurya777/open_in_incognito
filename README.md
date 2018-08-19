@@ -1,1 +1,1 @@
-# open_in_incognito
+# A Chrome extension for opening the current page in Incognito
